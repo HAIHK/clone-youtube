@@ -75,6 +75,9 @@ i{
     width: 50px;
     height: 40px;
 }
+.btn-search:hover{
+    background: #dbdbdb ;
+}
 .icon-mic{
     border-radius: 50%;
     height: 40px;
@@ -128,7 +131,7 @@ ul{
     text-decoration: none;  
 }
 .side-bar{
-    width: 17%;
+    width: 240px;
     height: 100vh;
     margin-top: 58px;
     overflow-y: scroll;
