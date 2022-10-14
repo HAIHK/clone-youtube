@@ -63,6 +63,10 @@ i{
     outline: none;
     padding: 0px 10px;
 }
+.keyboard {
+    margin-left: 60px;
+    margin-top: 10px;
+}
 .header-search{
     display: flex;
     flex-direction: row;
