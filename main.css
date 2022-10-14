@@ -58,10 +58,12 @@ i{
 }
 .ip input{
     width: 80%;
-    height: 36px;
+    height: 35px;
     border: none;
     outline: none;
-    padding: 0px 10px;
+    padding-left: 5px;
+    font-size: 15px;
+
 }
 .keyboard {
     margin-left: 60px;
