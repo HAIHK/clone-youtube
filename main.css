@@ -66,6 +66,7 @@ i{
 .keyboard {
     margin-left: 60px;
     margin-top: 10px;
+    cursor: pointer;
 }
 .header-search{
     display: flex;
